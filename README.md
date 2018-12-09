@@ -6,6 +6,6 @@ This is personal reference material collated for creating a ASP.NET web applicat
 All documentation can be found in the [wiki](https://github.com/Tolvic/dotnet-mvc-csharp-asp.net/wiki).
 
 ## To Do
-Writing Nunit Tests
-
-Work through core concepts: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.1
+* Mocking with Nunit
+* How to run tests section of writing nunit tests with nunit
+* Work through core concepts: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.1
