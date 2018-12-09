@@ -8,4 +8,4 @@ All documentation can be found in the [wiki](https://github.com/Tolvic/dotnet-mv
 ## To Do
 Writing Nunit Tests
 
-Work through https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.1
+Work through core concepts: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.1
