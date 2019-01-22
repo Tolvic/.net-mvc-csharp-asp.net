@@ -16,7 +16,7 @@ All documentation can be found in the [wiki](https://github.com/Tolvic/dotnet-mv
 * Testing
     * How to run tests section of writing nunit tests with nunit
     * Test Coverage Metric 
-    * Mocking and stubbing unit tests
+    * Mocking and stubbing unit tests using Moq framework
     * Test database for unit tests
     * Function Testing using Selenium: https://www.c-sharpcorner.com/article/selenium-automation-test-cases-for-the-net-web-application/
 * Controller
