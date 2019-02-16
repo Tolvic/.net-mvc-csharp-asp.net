@@ -13,6 +13,8 @@ All documentation can be found in the [wiki](https://github.com/Tolvic/dotnet-mv
     * Application
     * Database
     * Connecting the two
+    * CI
+    * CD
 * Testing
     * How to run tests section of writing nunit tests with nunit
     * Test Coverage Metric 
