@@ -2,7 +2,7 @@
 .DS_store
 
 # Client Side Libraries 
-wwwroot/lib/*
+*wwwroot/lib/*
 
 # Created by https://www.gitignore.io/api/aspnetcore
 # Edit at https://www.gitignore.io/?templates=aspnetcore
